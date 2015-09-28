@@ -13,8 +13,8 @@ http://hls.tv.iptv.ink/rtl2ch@626724.m3u8|X-Forwarded-For=81.17.18.55
 http://hls.tv.iptv.ink/superrtlch@822151.m3u8|X-Forwarded-For=81.17.18.55
 #EXTINF:0007 tvg-id="rtlnitro.de" group-title="DE Hauptsender" tvg-logo="396266.png", [COLOR orange]RTL Nitro[/COLOR]
 http://hls.tv.iptv.ink/rtlnitrode@396266.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0008 tvg-id="vox.ch" group-title="DE Hauptsender" tvg-logo="535594.png", [COLOR orange]VOX[/COLOR]
-http://hls.tv.iptv.ink/voxch@535594.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:0008 tvg-id="vox.ch" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX[/COLOR]
+http://pvr.tvip.ga/0010.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:0009 tvg-id="prosieben.ch" group-title="DE Hauptsender" tvg-logo="152887.png", [COLOR orangered]ProSieben HD[/COLOR]
 http://hls.tv.iptv.ink/prosiebench@152887.m3u8|X-Forwarded-For=81.17.18.55
 #EXTINF:0010 tvg-id="prosiebenmaxx.de" group-title="DE Hauptsender" tvg-logo="607652.png", [COLOR orange]ProSieben Maxx[/COLOR]
